@@ -3,8 +3,8 @@ name: Atualizar Dados
 on:
   # Roda 2x/dia: 9h e 21h (horário de Brasília = 12h e 00h UTC)
   schedule:
-    - cron: '0 12 * * *'  # 09:00 BRT
-    - cron: '0 0 * * *'   # 21:00 BRT
+    - cron: '0 11 * * *'  # 08:00 BRT
+    - cron: '0 20 * * *'  # 17:00 BRT
 
   # Permite rodar manualmente pelo GitHub
   workflow_dispatch:
