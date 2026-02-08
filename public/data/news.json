@@ -1,0 +1,146 @@
+{
+  "data": {
+    "tecnologia": [
+      {
+        "id": "tecnologia-0",
+        "title": "Empresa de cripto envia acidentalmente US$ 44 bi em bitcoins para usuários",
+        "source": "CNN Brasil",
+        "time": "12h atrás",
+        "summary": "A Bithumb pediu desculpas pelo erro, ocorrido na sexta-feira (6), e afirmou ter recuperado 99,7% dos 620.000 bitcoins, avaliados em cerca de US$ 44 bilhões na cotação atual",
+        "url": "https://www.cnnbrasil.com.br/economia/financas/empresa-de-cripto-envia-acidentalmente-us-44-bi-em-bitcoins-para-usuarios/",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/04/pexels-david-mcbee-730564.jpg?w=1200&h=630&crop=1"
+      },
+      {
+        "id": "tecnologia-1",
+        "title": "Celular rastreado leva PM até adolescente suspeito de receptação",
+        "source": "Rádio Cidade",
+        "time": "13h atrás",
+        "summary": "Um adolescente foi apreendido por receptação após ser flagrado com um celular furtado, na madrugada deste sábado (07), na...",
+        "url": "https://rc.fm.br/web/page_noticia/id_996232/",
+        "image": "https://rc.fm.br/images/w_1080/h_1080/arq_121314:noticias:996232:986c12b4ecc5e6766303bc6ac1f85100.jpeg"
+      },
+      {
+        "id": "tecnologia-2",
+        "title": "Bancos privados fecham 2,3 mil agências em 2025, mas despesas ainda sobem",
+        "source": "Valor Econômico",
+        "time": "13h atrás",
+        "summary": "Nos últimos anos, os incumbentes têm acelerado os esforços para reduzir o chamado “custo de servir” para fazer frente aos concorrentes digitais",
+        "url": "https://valor.globo.com/financas/noticia/2026/02/07/bancos-privados-fecham-23-mil-agncias-em-2025-mas-despesas-ainda-sobem.ghtml",
+        "image": "https://s2-valor.glbimg.com/3qHMbGofl7JHL5Nys4gScQs30fg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/r/D/vHJXXsSHAXFMfUoFUO9g/439452802.jpg"
+      },
+      {
+        "id": "tecnologia-3",
+        "title": "IA na religião: como a tecnologia se funde a igrejas e fiéis",
+        "source": "G1",
+        "time": "13h atrás",
+        "summary": "A Inteligência Artificial na religião permite criar sermões e simular conversas com Jesus, mas líderes alertam para riscos éticos e teológicos da tecnologia.",
+        "url": "https://g1.globo.com/tecnologia/noticia/2026/02/07/das-igrejas-aos-chatbots-como-a-ia-esta-se-fundindo-com-a-religiao.ghtml",
+        "image": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+      },
+      {
+        "id": "tecnologia-4",
+        "title": "Segurança encontra celular com pornografia infantil em terminal",
+        "source": "Banda B",
+        "time": "13h atrás",
+        "summary": "Celular esquecido no banheiro do Terminal Pinheirinho, em Curitiba, levou à prisão de um jovem por armazenamento de pornografia infantil",
+        "url": "https://www.bandab.com.br/seguranca/seguranca-celular-pornografia-terminal-curitiba/",
+        "image": "https://www.bandab.com.br/wp-content/uploads/2026/02/celular-esquecido-terminal-pornografia-intantil.jpeg"
+      }
+    ],
+    "economia": [
+      {
+        "id": "economia-0",
+        "title": "Empresa de cripto envia acidentalmente US$ 44 bi em bitcoins para usuários",
+        "source": "CNN Brasil",
+        "time": "12h atrás",
+        "summary": "A Bithumb pediu desculpas pelo erro, ocorrido na sexta-feira (6), e afirmou ter recuperado 99,7% dos 620.000 bitcoins, avaliados em cerca de US$ 44 bilhões na cotação atual",
+        "url": "https://www.cnnbrasil.com.br/economia/financas/empresa-de-cripto-envia-acidentalmente-us-44-bi-em-bitcoins-para-usuarios/",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/04/pexels-david-mcbee-730564.jpg?w=1200&h=630&crop=1"
+      },
+      {
+        "id": "economia-1",
+        "title": "CVM promete 'prestar contas à sociedade' em três semanas sobre banco Master",
+        "source": "UOL Economia",
+        "time": "13h atrás",
+        "summary": "Encontre orientações e notícias sobre economia: investimentos, finanças, negócios, carreira, cotações de Bolsas, moedas, índices econômicos e mais...",
+        "url": "https://economia.uol.com.br/noticias/redacao/2026/02/07/banco-master-reag-cvm-banco-central-haddad.htm",
+        "image": "https://conteudo.imguol.com.br/c/noticias/40/2026/01/23/sede-do-banco-master-em-sao-paulo-1769181238879_v2_615x300.jpg"
+      },
+      {
+        "id": "economia-2",
+        "title": "Bancos privados fecham 2,3 mil agências em 2025, mas despesas ainda sobem",
+        "source": "Valor Econômico",
+        "time": "13h atrás",
+        "summary": "Nos últimos anos, os incumbentes têm acelerado os esforços para reduzir o chamado “custo de servir” para fazer frente aos concorrentes digitais",
+        "url": "https://valor.globo.com/financas/noticia/2026/02/07/bancos-privados-fecham-23-mil-agncias-em-2025-mas-despesas-ainda-sobem.ghtml",
+        "image": "https://s2-valor.glbimg.com/3qHMbGofl7JHL5Nys4gScQs30fg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/r/D/vHJXXsSHAXFMfUoFUO9g/439452802.jpg"
+      },
+      {
+        "id": "economia-3",
+        "title": "BYD quebra paradigma e usa Justiça para intimidar imprensa no Brasil",
+        "source": "AutoPapo",
+        "time": "13h atrás",
+        "summary": "BYD e Alexandre Baldy processam o AutoPapo; Boris Feldman denuncia tentativa de censura e táticas agressivas inéditas em seus 60 anos de jornalismo",
+        "url": "https://autopapo.com.br/noticia/byd-quebra-paradigma-justica-intimidar-imprensa/",
+        "image": "https://cdn.autopapo.com.br/box/uploads/2025/12/03171145/logo-byd-shutterstock.jpg"
+      },
+      {
+        "id": "economia-4",
+        "title": "Mega-Sena: ganhador de R$ 141 milhões tinha 50 vezes mais chances de ser atingido por raio",
+        "source": "Rádio Itatiaia",
+        "time": "15h atrás",
+        "summary": "Probabilidade de uma pessoa ser atingida por um raio é de uma chance de 1 em 1 milhão",
+        "url": "https://www.itatiaia.com.br/brasil/brasil-geral/mega-sena-ganhador-de-r-141-milhoes-tinha-50-vezes-mais-chances-de-ser-atingido-por-raio",
+        "image": "https://medias.itatiaia.com.br/dims4/default/62033b9/2147483647/strip/true/crop/757x397+0+19/resize/1200x630!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2Ff1%2F1791c8f2422590ca340949b1ac44%2Fmega-sena-raio.jpg"
+      }
+    ],
+    "politica": [
+      {
+        "id": "politica-0",
+        "title": "Dono de funerária é condenado a 40 anos por 'abuso' de cadáver nos EUA",
+        "source": "UOL Notícias",
+        "time": "12h atrás",
+        "summary": "Veja as principais notícias e manchetes do dia no Brasil e no Mundo. Leia textos e assista a vídeos de Política, Cotidiano, Crimes e mais.",
+        "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/02/07/dono-de-funeraria-e-condenado-a-40-anos-de-prisao-por-abusar-de-cadaveres.htm",
+        "image": "https://conteudo.imguol.com.br/c/noticias/66/2024/11/25/carie-hallford-e-jon-hallford-eram-donos-da-return-to-nature-funeral-home-eles-se-declararam-culpados-de-abuso-de-corpos-1732535980150_v2_615x300.jpg"
+      },
+      {
+        "id": "politica-1",
+        "title": "Trump nega ter cometido erro ao postar vídeo de casal Obama",
+        "source": "Poder360",
+        "time": "13h atrás",
+        "summary": "Presidente dos EUA publicou e depois apagou imagens que retratavam Barack e Michelle Obama como macacos. Leia no Poder360.",
+        "url": "https://www.poder360.com.br/poder-internacional/trump-nega-ter-cometido-erro-ao-postar-video-de-casal-obama/",
+        "image": "https://static.poder360.com.br/2026/02/donald-trump-5fev2026-848x477.jpg"
+      },
+      {
+        "id": "politica-2",
+        "title": "Pentágono cortará seus laços acadêmicos com Harvard",
+        "source": "UOL Notícias",
+        "time": "13h atrás",
+        "summary": "Veja as principais notícias e manchetes do dia no Brasil e no Mundo. Leia textos e assista a vídeos de Política, Cotidiano, Crimes e mais.",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/02/07/pentagono-cortara-seus-lacos-academicos-com-harvard.htm",
+        "image": "https://conteudo.imguol.com.br/c/noticias/13/2025/05/24/a-biblioteca-harry-elkins-widener-memorial-no-campus-da-universidade-de-harvard-em-cambridge-nos-estados-unidos-1748085096995_v2_615x300.jpg"
+      },
+      {
+        "id": "politica-3",
+        "title": "Trump quer fim da guerra entre Ucrânia e Rússia até junho, diz Zelensky",
+        "source": "UOL Notícias",
+        "time": "13h atrás",
+        "summary": "Veja as principais notícias e manchetes do dia no Brasil e no Mundo. Leia textos e assista a vídeos de Política, Cotidiano, Crimes e mais.",
+        "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/02/07/trump-quer-fim-da-guerra-entre-ucrania-e-russia-ate-junho-diz-zelensky.htm",
+        "image": "https://conteudo.imguol.com.br/c/noticias/03/2026/01/25/25jan2026---o-presidente-da-ucrania-volodymyr-zelensky-fala-durante-uma-coletiva-de-imprensa-conjunta-com-o-presidente-da-lituania-e-o-presidente-da-polonia-apos-participar-das-comemoracoes-do-levante-1769362599308_v2_615x300.jpg"
+      },
+      {
+        "id": "politica-4",
+        "title": "Adolescentes nas redes sociais: só proibição resolve problemas?",
+        "source": "UOL",
+        "time": "14h atrás",
+        "summary": "Neurocientista alerta que proibição de adolescentes nas redes sociais deve ser complementada com outras medidas, incluindo socialização.",
+        "url": "https://mediatalks.uol.com.br/2026/02/07/proibicao-de-adolescentes-nas-redes-sociais-nao-basta/",
+        "image": "https://mediatalks.uol.com.br/wp-content/uploads/2026/08/Adolescente-com-roupa-jeans-e-smartphone-nas-maos.jpeg"
+      }
+    ]
+  },
+  "updated_at": "2026-02-08T01:28:36.608Z"
+}
