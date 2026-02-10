@@ -27,7 +27,7 @@ export default function Header({ activeSection, onNavigate }: HeaderProps) {
     <>
       <header className={styles.header}>
         <div className={styles.logo}>
-          NEXUS<span className={styles.logoDot}>.</span>hub
+          NEXUS<span className={styles.logoDot}>.</span>labz
         </div>
 
         <nav className={styles.desktopNav}>
